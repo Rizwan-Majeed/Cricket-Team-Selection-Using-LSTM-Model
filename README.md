@@ -28,3 +28,5 @@ And international players were given 90% preferrence over domestic performance.
 For England: Model predicted top 10 batsmens (including wicket keepers), 2 all-rounders, 3 spinners and 4 fast bowlers in the squad of 19. 
 
 For Australia: Model predicted top 8 batsmens (including wicket keepers), 4 all-rounders, 3 spinners and 4 fast bowlers in the squad of 19. 
+# Note
+This model not only for tests, this model can be used to predict any team and any format. 
